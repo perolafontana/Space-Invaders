@@ -1,19 +1,19 @@
 class SoundEffects {
     constructor() {
         this.shootSounds = [
-            new Audio("src/assets/audios/shoot.mp3"),
-            new Audio("src/assets/audios/shoot.mp3"),
-            new Audio("src/assets/audios/shoot.mp3"),
-            new Audio("src/assets/audios/shoot.mp3"),
-            new Audio("src/assets/audios/shoot.mp3"),
+            new Audio("src_assets_audios_shoot.mp3"),
+            new Audio("src_assets_audios_shoot.mp3"),
+            new Audio("src_assets_audios_shoot.mp3"),
+            new Audio("src_assets_audios_shoot.mp3"),
+            new Audio("src_assets_audios_shoot.mp3"),
         ];
 
         this.hitSounds = [
-            new Audio("src/assets/audios/hit.mp3"),
-            new Audio("src/assets/audios/hit.mp3"),
-            new Audio("src/assets/audios/hit.mp3"),
-            new Audio("src/assets/audios/hit.mp3"),
-            new Audio("src/assets/audios/hit.mp3"),
+            new Audio("src_assets_audios_hit.mp3"),
+            new Audio("src_assets_audios_hit.mp3"),
+            new Audio("src_assets_audios_hit.mp3"),
+            new Audio("src_assets_audios_hit.mp3"),
+            new Audio("src_assets_audios_hit.mp3"),
         ];
 
         this.explosionSound = new Audio("src_assets_audios_explosion.mp3");
