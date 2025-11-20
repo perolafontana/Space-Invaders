@@ -16,7 +16,7 @@ class SoundEffects {
             new Audio("src/assets/audios/hit.mp3"),
         ];
 
-        this.explosionSound = new Audio("src_assets_audios_explosion");
+        this.explosionSound = new Audio("src_assets_audios_explosion.mp3");
         this.nextLevelSound = new Audio("src/assets/audios/next_level.mp3");
 
         this.currentShootSound = 0;
